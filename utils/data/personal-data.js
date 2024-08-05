@@ -1,6 +1,6 @@
 export const personalData = {
   name: "R Ram Shankar",
-  profile: '/profile.png',
+  // profile: '/',
   designation: "Undergraduate Computer Science Student",
   description: "I am R Ram Shankar, a pre-final year student of VIT-Chennai. I have worked on projects in the domains of Machine Learning and Deep Learning. I'm also a full stack developer.I'm very enthusiastic about software development, Machine Learning, and full stack development!",
   email: 'sanjayramshankar@gmail.com',

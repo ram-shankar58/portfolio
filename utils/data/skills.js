@@ -13,7 +13,6 @@ export const skillsData = [
   'AWS',
   'Bootstrap',
   'Docker',
-  'Go',
   'Python',
   'Tensorflow',
   'Pytorch',
