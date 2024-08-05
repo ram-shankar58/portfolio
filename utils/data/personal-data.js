@@ -9,5 +9,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/ram-shankar-r/',
 
   
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1kzl1_tSAnbGg_8ltKekFzciEcKi6RqYx/view?usp=sharing"
 }
